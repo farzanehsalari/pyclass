@@ -1,0 +1,5 @@
+r = input()
+mohit = 2* 3.14* float(r)
+masahat = 3.14 * (float(r)**2)
+print (mohit)
+print (masahat)
